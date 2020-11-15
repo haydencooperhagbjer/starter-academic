@@ -12,4 +12,5 @@ fields:
   default: []
   label: tags
 pages:
+- people/Abbs/.file.contentbasename-1.md
 - people/Abbs/.file.contentbasename.md
