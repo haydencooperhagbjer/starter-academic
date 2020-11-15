@@ -1,4 +1,13 @@
 ---
 label: peoples
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
